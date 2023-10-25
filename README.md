@@ -1,14 +1,4 @@
 # CPSC 8710 - Foundations of Software Engineering - Memory Game
-Memory Game  
-
-  
-
-[Link to Live Website](https://motazabdou.github.io/MS2-MemoryGame/)
-
-  
-
-[GitHub Repo](https://github.com/motazabdou/MS2-MemoryGame) 
-
   
 
 ***  
