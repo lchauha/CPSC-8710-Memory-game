@@ -1,4 +1,4 @@
-# Motaz Abdou - Milestone Project 2 - Memory Game
+# CPSC 8710 - Foundations of Software Engineering - Memory Game
 Memory Game  
 
   
