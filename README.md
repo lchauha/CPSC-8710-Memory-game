@@ -1,8 +1,5 @@
 # CPSC 8710 - Foundations of Software Engineering - Memory Game
   
-
-***  
-
 ## Index – Table of Contents 
 
 * [About](#About)
